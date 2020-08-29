@@ -1,2 +1,2 @@
-# master
-The main branch
+# Only push to develop, request a merge to main when done with work
+
